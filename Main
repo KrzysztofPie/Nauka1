@@ -1,0 +1,15 @@
+import keyboard
+import time
+import os
+#erase = print(' ')
+text = input()
+
+while text is True:
+    print(text)
+    os.system('cls')
+while True:
+        if keyboard.is_pressed('esc'):
+            print("see you soon")
+            break
+        else:
+            continue
