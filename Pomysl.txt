@@ -1,0 +1,4 @@
+To ma być program ktory za kazda wpisana litera ma ja cofac z dana predkoscia
+idea jest taka ze masz sie z czyms takim scigac
+nie potrafie zmusic pythona do tego aby na bierzaco usowal litery
+wszystko zrobilem samemu czytajac tylko co dana funkcja robi itp.
